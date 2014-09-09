@@ -1,0 +1,9 @@
+{
+    "name": "Pro Cam",
+    "package_path" : "http://vikene.github.io/random/package.zip",
+    "version": "1",
+    "developer": {
+        "name": "Vigneash Sundar",
+        "url": "http://vikene.github.io"
+    }
+}
